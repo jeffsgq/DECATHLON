@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite4" parallel="false">
+	<test name="test4">
+		<classes>
+			<class name="testhk.TestCase_women_ReturnCustomer_HK" />
+		</classes>
+	</test>
+</suite> 

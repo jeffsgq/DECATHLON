@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suiteall" duration-ms="1277600" started-at="2015-04-15T06:38:29Z" finished-at="2015-04-15T06:59:47Z">
+    <groups>
+    </groups>
+    <test name="testall" duration-ms="1277600" started-at="2015-04-15T06:38:29Z" finished-at="2015-04-15T06:59:47Z">
+      <class name="testhk.TestCase_women_ReturnCustomer_HK">
+        <test-method status="PASS" signature="TestReturnCustomerHK()[pri:0, instance:testhk.TestCase_women_ReturnCustomer_HK@11c8a71]" name="TestReturnCustomerHK" duration-ms="186699" started-at="2015-04-15T14:56:40Z" finished-at="2015-04-15T14:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestReturnCustomerHK -->
+      </class> <!-- testhk.TestCase_women_ReturnCustomer_HK -->
+      <class name="test.TestCase_women_ReturnCustomer">
+        <test-method status="PASS" signature="TestReturnCustomer()[pri:0, instance:test.TestCase_women_ReturnCustomer@cf40f5]" name="TestReturnCustomer" duration-ms="108874" started-at="2015-04-15T14:40:48Z" finished-at="2015-04-15T14:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestReturnCustomer -->
+      </class> <!-- test.TestCase_women_ReturnCustomer -->
+      <class name="testhk.TestCase_man_NewCustomer_HK">
+        <test-method status="PASS" signature="TestNewCustomerHK()[pri:0, instance:testhk.TestCase_man_NewCustomer_HK@b82368]" name="TestNewCustomerHK" duration-ms="843201" started-at="2015-04-15T14:42:37Z" finished-at="2015-04-15T14:56:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNewCustomerHK -->
+      </class> <!-- testhk.TestCase_man_NewCustomer_HK -->
+      <class name="test.TestCase_man_NewCustomer">
+        <test-method status="PASS" signature="TestNewCustomer()[pri:0, instance:test.TestCase_man_NewCustomer@c53dce]" name="TestNewCustomer" duration-ms="138810" started-at="2015-04-15T14:38:30Z" finished-at="2015-04-15T14:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNewCustomer -->
+      </class> <!-- test.TestCase_man_NewCustomer -->
+    </test> <!-- testall -->
+  </suite> <!-- Suiteall -->
+</testng-results>
